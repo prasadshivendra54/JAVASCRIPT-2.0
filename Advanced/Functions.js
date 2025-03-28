@@ -61,3 +61,17 @@
 // console.log(newNum)
 // console.log(arr)
 
+
+
+// --------
+
+// let abc = (myFunction) =>{
+//     return myFunction
+// }
+
+// let sum = (a, b) =>{
+//     return a + b
+// }
+
+// let result = abc(sum(10, 20))
+// console.log(result)
